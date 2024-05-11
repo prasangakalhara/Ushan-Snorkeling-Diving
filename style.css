@@ -483,12 +483,12 @@ a:hover {
         flex-direction: column;
     }
 
-    .OUTDOORS {
+    .INDOORS {
         margin-left: 30px !important;
     }
 
-    .outdoor {
-        margin-left: 50px !important;
+    .indoor {
+        margin-left: 0px !important;
     }
 
     .img-gallery {
